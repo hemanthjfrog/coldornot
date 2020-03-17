@@ -1,0 +1,23 @@
+Installation Instructions
+*************************
+
+
+
+Basic Installation
+==================
+
+	To install coldornot,
+	just run "./configure && make && sudo make install".
+
+	This command will compile, and install the program.
+
+
+
+Dependencies
+============
+
+	Coldornot doesn't requires any dependencies,
+	you will just need gcc to compile it.
+
+	This program should already be installed on your computer,
+	if it's not, just look at your distribution's repositories.
